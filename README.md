@@ -26,7 +26,7 @@
 ==================== Stat session ========================
 -->
 <p  align="center">
-<img src="https://github.com/JoHyukJun/blob/main/gif/barloading.gif"> 
+<img src="https://github.com/JoHyukJun/JoHyukJun/blob/main/gif/barloading.gif"> 
 </p>
                   
 <br>
@@ -52,7 +52,7 @@
 <br>
 
 <p  align="center">
-<img src="https://github.com/JoHyukJun/blob/main/gif/barloading.gif"> 
+<img src="https://github.com/JoHyukJun/JoHyukJun/blob/main/gif/barloading.gif"> 
 </p>
  
 <br>
@@ -69,7 +69,7 @@
 <br>
 
 <p  align="center">
-<img src="https://github.com/JoHyukJun/blob/main/gif/barloading.gif"> 
+<img src="https://github.com/JoHyukJun/JoHyukJun/blob/main/gif/barloading.gif"> 
 </p>
  
 <br>
