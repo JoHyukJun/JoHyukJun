@@ -4,4 +4,4 @@
 ![Jo Hyuk Jun's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoHyukJun&show_icons=true&count_private=true&theme=shades-of-purple&hide=issues,contribs)
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoHyukJun&hide=javascript,html,css,scss&layout=compact&theme=shades-of-purple)](www.unluckystrike.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoHyukJun&hide=javascript,html,css,scss&layout=compact&theme=shades-of-purple&count_private=true)](www.unluckystrike.com)
