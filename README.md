@@ -13,6 +13,7 @@
 
 <p align="center">
 <a href="https://github.com/JoHyukJun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="apoorvtyagi" height="20" width="20" /></a>
+<a href="https://unluckystrike.com" target="blank"><img align="center" src="https://unluckystrike.com/static/images/favicon/favicon-96x96.png" alt="mywebsite" height="20" width="20" /></a>
 </p>
 
 ### 🤵 About Me:
