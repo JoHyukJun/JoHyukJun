@@ -20,7 +20,7 @@
 - 🏦 I'm currently working as a Software Engineer
 - 🤔 I use daily ```.python```,``` .ts```. Sometime is ```.java```, ```.cpp```
 - 💬 Can be working on Django, NodeJS, C++, SQL
-- 🌱 I’m currently learning in some back-end language (nestjs)
+- 🌱 I’m currently learning in some back-end language (Kotlin)
 - ⚡ Quote: Keep on growing
 
 <!--
