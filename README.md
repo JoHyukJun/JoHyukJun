@@ -3,7 +3,7 @@
 -->
 
 <div align="center">
-<h2> 👋 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
+<h2> 👋 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞!</h2>
 </div>
 
 
@@ -18,18 +18,16 @@
 
 ### 🤵 About Me:
 - 🏦 I'm currently working as a Software Engineer
-- 🤔 I use daily ```.python```,``` .ts```. Sometime is ```.java```, ```.cpp```
-- 💬 Can be working on Django, NodeJS, C++, SQL
-- 🌱 I’m currently learning in some back-end language (Kotlin)
+- 🤔 I use daily ```.py```,``` .ts```. Sometime is ```.java```, ```.cpp```
 - ⚡ Quote: Keep on growing
 
 <!--
 ==================== Stat session ========================
 -->
-<p  align="center">
-<img src="https://github.com/JoHyukJun/JoHyukJun/blob/main/gif/barloading.gif"> 
-</p>
-                  
+<br>
+
+---
+            
 <br>
   
 <table border="0" align="center">
@@ -52,9 +50,7 @@
 
 <br>
 
-<p  align="center">
-<img src="https://github.com/JoHyukJun/JoHyukJun/blob/main/gif/barloading.gif"> 
-</p>
+---
  
 <br>
 
@@ -69,9 +65,7 @@
 
 <br>
 
-<p  align="center">
-<img src="https://github.com/JoHyukJun/JoHyukJun/blob/main/gif/barloading.gif"> 
-</p>
+---
  
 <br>
 
