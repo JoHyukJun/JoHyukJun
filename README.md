@@ -18,7 +18,7 @@
 
 ### 🤵 About Me:
 - 🏦 I'm currently working as a Software Engineer
-- 🤔 I use daily ```.py```,``` .ts```. Sometime is ```.java```, ```.cpp```
+- 🤔 I use daily ```.py```, ```.ts```. Sometime is ```.java```, ```.cpp```
 - ⚡ Quote: Keep on growing
 
 <!--
