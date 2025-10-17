@@ -54,21 +54,6 @@
  
 <br>
 
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-    
-
-<p align="center">
-  <a href="https://unluckystrike.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoHyukJun%2Fhit-counter&count_bg=%23700DD0&title_bg=%23EEEB20&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</p>
-
-<br>
-
----
- 
-<br>
-
 <!--
 ==================== End session ========================
 -->
