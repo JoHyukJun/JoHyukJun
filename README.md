@@ -16,11 +16,12 @@
 <a href="https://unluckystrike.com" target="blank"><img align="center" src="https://unluckystrike.com/static/images/favicon/favicon-96x96.png" alt="mywebsite" height="20" width="20" /></a>
 </p>
 
-### 🤵 About Me:
-- 🏦 I'm currently working as a Software Engineer
-- 🤔 I use daily ```.c```, ```.java```. Sometime is  ```.py```, ```.ts```
-- ⚡ Quote: Keep on growing
+### Core Stack
 
+```c
+const char *languages[] = {"C", "Java", "Python", "TypeScript"};
+const char *focus = "Performance & Reliability";
+```
 <!--
 ==================== Stat session ========================
 -->
